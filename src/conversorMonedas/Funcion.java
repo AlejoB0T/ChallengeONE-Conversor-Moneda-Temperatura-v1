@@ -2,7 +2,7 @@ package conversorMonedas;
 
 import javax.swing.JOptionPane;
 
-public class funcion {
+public class Funcion {
 	
 	Monedas monedas = new Monedas();
 	MonedasAPesos pesos = new MonedasAPesos();
